@@ -1,0 +1,5 @@
+.venv/
+.venv1/
+credentials.json
+__pycache__/
+.env
