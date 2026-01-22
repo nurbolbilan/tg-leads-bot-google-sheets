@@ -1,7 +1,7 @@
 import telebot
 from sheets import save_to_sheets
 
-BOT_TOKEN = "8505687798:AAFUW5pJy6h-4-99at1KWn6IrvRC_qut4SU"
+BOT_TOKEN = "Token"
 
 bot = telebot.TeleBot(BOT_TOKEN)
 
