@@ -1,5 +1,14 @@
+# secrets
+credentials.json
+.env
+
+# python
+__pycache__/
+*.pyc
+
+# venv
 .venv/
 .venv1/
-credentials.json
-__pycache__/
-.env
+
+# IDE
+.idea/
